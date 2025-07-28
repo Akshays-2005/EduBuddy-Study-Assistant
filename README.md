@@ -3,6 +3,9 @@
 EduBuddy is an AI-powered personal study assistant built during the **JSS Navotthana 24-hour Hackathon**.  
 It helps students manage study sessions, take healthy breaks, and stay productive with smart reminders.
 
+## 🎥 Demo Video
+[Watch the Demo Video](https://drive.google.com/file/d/1LQj-qU58MgSe7OzL7JIdkHNrAzMIrRHa/view?usp=drive_link)  
+
 ## 🚀 Features
 - AI-based personalized study session planning
 - Smart break reminders after continuous study
